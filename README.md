@@ -1,4 +1,4 @@
-# amazon-books-data-pipeline
+# amazon-books-etl-pipeline
 -----------
 
 
